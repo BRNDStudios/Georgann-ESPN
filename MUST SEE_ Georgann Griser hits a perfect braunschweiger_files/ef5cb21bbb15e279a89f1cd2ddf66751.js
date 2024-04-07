@@ -1,0 +1,1 @@
+Bootstrapper.bindImmediate(function(){var Bootstrapper=window["Bootstrapper"];var ensightenOptions=Bootstrapper.ensightenOptions;Bootstrapper.bindDOMParsed(function(){Bootstrapper.imageRequest("https://ad.doubleclick.net/activity/src\x3d8397396;type\x3dmlp2;cat\x3dwebml00l;ord\x3d"+Math.round(Math.random()*1E13)+"?")})},3681510,705862,62);
